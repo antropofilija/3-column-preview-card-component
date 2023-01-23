@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;300;400;500&display=swap');
+
+/* Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  display: flex;
+  width: 850px;
+  height: 430px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.sedans {
+  display: block;
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 10px 0 0 10px;
+}
+
+.sedans img,
+.luxury img,
+.suvs img {
+  width: 85px;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+h1 {
+  color: hsl(0, 0%, 95%);
+  font-size: 35px;
+  font-family: 'Big Shoulders Display', cursive;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 50px;
+  padding-bottom: 80px;
+  font-weight: 300;
+}
+
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 10px 10px 0;
+}
+
+.btn button {
+  border: none;
+  background-color: hsl(0, 0%, 95%);
+  width: 130px;
+  height: 40px;
+  border-radius: 30px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 500;
+}
+
+.btn {
+  padding-left: 30px;
+}
+
+.btn button:hover {
+  color: hsl(0, 0%, 95%);
+  background-color: transparent;
+  border: 2px solid hsl(0, 0%, 95%);
+}
+
+.clr-1 {
+  color: hsl(31, 77%, 52%);
+}
+
+.clr-2 {
+  color: hsl(184, 100%, 22%);
+}
+
+.clr-3 {
+  color: hsl(179, 100%, 13%);
+}
+
+/* Mobile version */
+
+@media only screen and (max-width: 884px) {
+  section {
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    flex-wrap: wrap;
+    padding: 40px;
+  }
+
+  .btn {
+    padding-bottom: 40px;
+    margin-top: -40px;
+  }
+  .sedans {
+    border-radius: 7px 7px 0 0;
+  }
+
+  .luxury {
+    border-radius: 0 0 7px 7px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+}
