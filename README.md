@@ -10,5 +10,6 @@ This is a solution to the <a href="https://www.frontendmentor.io/challenges/3col
 <br>
 
 <h3> Mobile version
-![image](https://user-images.githubusercontent.com/59334766/215496126-415608fc-7184-4b7d-b049-41e5729780bc.png)  ![image](https://user-images.githubusercontent.com/59334766/215496196-0f022fbc-a4ea-4914-a58c-7c68421d62dd.png)
+![image](https://user-images.githubusercontent.com/59334766/215496126-415608fc-7184-4b7d-b049-41e5729780bc.png) 
+![image](https://user-images.githubusercontent.com/59334766/215496196-0f022fbc-a4ea-4914-a58c-7c68421d62dd.png)
 
