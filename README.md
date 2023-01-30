@@ -5,8 +5,30 @@ This is a solution to the <a href="https://www.frontendmentor.io/challenges/3col
 <h1> OVERVIEW
 
  <h3> Desktop version
- [[(https://user-images.githubusercontent.com/59334766/215496690-20dbbbd2-5d4e-4916-92c0-a62e8f8246e9.png)]]
+  <br>
+  Screenshot
+  <br>
+
+![Screenshot 2023-01-30 155811](https://user-images.githubusercontent.com/59334766/215500561-c710e1dd-16f1-4e43-9c6f-814de1d5fdd9.png)
+
+
 
 <h3> Mobile version
+ <br>
+ Screeenshot
+<br>
+ 
+![mobile1](https://user-images.githubusercontent.com/59334766/215501232-39180bc4-5a6e-4d79-9224-366e65b21b3e.png) ![mobile2](https://user-images.githubusercontent.com/59334766/215501303-3fc2cd6a-3ebd-4644-a864-155dc1df3c4d.png)
+
+
+
+
+ <br> 
+ 
+   - Semantic HTML5 markup
+   
+   
+  - CSS custom properties
+              
 
 
