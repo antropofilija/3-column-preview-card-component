@@ -5,7 +5,7 @@ This is a solution to the <a href="https://www.frontendmentor.io/challenges/3col
 <h1> OVERVIEW
 
  <h3> Desktop version
-  ![image](https://user-images.githubusercontent.com/59334766/215496690-20dbbbd2-5d4e-4916-92c0-a62e8f8246e9.png)
+ [[(https://user-images.githubusercontent.com/59334766/215496690-20dbbbd2-5d4e-4916-92c0-a62e8f8246e9.png)]]
 
 <h3> Mobile version
 
